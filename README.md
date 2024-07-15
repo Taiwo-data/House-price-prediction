@@ -19,5 +19,4 @@ The dataset used in this project is the [Kaggle KC House Dataset](https://www.ka
 2. **Keras Deep Learning Model**
 3. **Bayesian Ridge Regression**
 
-## Repository Structure
 
